@@ -8,5 +8,7 @@ cd javascript-playground
 ```
 - use editor of your choice
 
+##### Try the application [HERE](https://htmlpreview.github.io/?https://github.com/maria1226/javascript-playground/blob/master/function_in_js/function_in_javascript.html)
+
 
 
